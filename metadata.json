@@ -1,0 +1,6 @@
+{
+  "name": "PixelTemplates",
+  "description": "قوالب مواقع احترافية ومعرض رقمي متكامل مع معاينة حية وطلب شراء مباشر عبر واتساب | Professional website templates showcase with live previews and WhatsApp inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
